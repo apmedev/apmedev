@@ -2,7 +2,7 @@
   <h1 align="center">hey there 👋</h1>
 </div>
 
-<p align="center"><br>Dveloping, maintaining and improving.</p>
+<p align="center"><br>Developing, maintaining and improving.</p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="40" width="52" alt="php logo"  />
